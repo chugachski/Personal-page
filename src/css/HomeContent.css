@@ -1,0 +1,18 @@
+.text {
+  font-size: 54px;
+  font-weight: bold;
+  text-align: center;
+  color: #EAEAEA;
+}
+
+.text > p {
+  margin: -10px;
+}
+
+.dark {
+  color: #3B3B3B;
+}
+
+.no-vis {
+  visibility: hidden;
+}

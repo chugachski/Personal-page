@@ -1,0 +1,57 @@
+.p1-background {
+  background: url('../assets/abstract2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+}
+
+.p2-background {
+  background: url('../assets/abstract1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+}
+
+.p3-background {
+  background: url('../assets/abstract6.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+}
+
+.project-content {
+  height: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.project-wrapper {
+  width: 100%;
+  text-align: center;
+}
+
+.project-preview {
+  max-height: 50%;
+  max-width: 50%;
+  border: 3px solid #3B3B3B;
+  border-radius: 6px;
+  margin: 3%;
+}
+
+h2 {
+  padding-top: 4%;
+  font-size: 34px;
+  color: #282828;
+}
+
+.double {
+  max-height: 18%;
+  max-width: 18%;
+  border: 3px solid #3B3B3B;
+  border-radius: 6px;
+  margin: 3%;
+}

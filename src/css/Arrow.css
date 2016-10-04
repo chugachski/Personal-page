@@ -1,0 +1,16 @@
+.arrow {
+  background: url('../assets/down_arrow.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 75px;
+  height: 75px;
+}
+
+.scroll {
+  color: #FFF;
+  width: 75px;
+  height: 75px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}

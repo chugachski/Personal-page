@@ -1,0 +1,12 @@
+* {
+  font-family: 'Fjalla One', sans-serif;
+}
+
+body {
+    scroll-snap-type: mandatory;
+    scroll-snap-points-y: repeat(100%);
+    scroll-behaviour: smooth;
+    overflow: scroll;
+    height: 90vh;
+    margin-top: 10px;
+}
