@@ -1,6 +1,6 @@
 ## Hosted app
+scroll snap works in Firefox without polyfill
 - http://chugachski.github.io/Personal-page
-- scroll snap works in Firefox without polyfill
 
 ## Polyfills:
 ### URLs
@@ -16,6 +16,7 @@
 
 
 
+## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
