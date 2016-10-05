@@ -6,6 +6,7 @@
 
 - src/polyfill/philipwalton/polyfill.js
 - src/polyfill/scrollsnap-polyfill/scrollsnap-polyfill.js
+------------------------------------------------------------
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
