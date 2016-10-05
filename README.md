@@ -1,9 +1,15 @@
+## Hosted app
+- http://chugachski.github.io/Personal-page
+- scroll snap works in Firefox without polyfill
+- chrome: see syntax errors in developer tools
+
 ## Polyfills:
 ### URLs
 - css tricks: https://css-tricks.com/introducing-css-scroll-snap-points/
 - scrollsnap-polyfill: https://github.com/ckrack/scrollsnap-polyfill
 - polyfill: https://github.com/philipwalton/polyfill
 
+### Physical locations
 - src/polyfill/philipwalton/polyfill.js
 - src/polyfill/scrollsnap-polyfill/scrollsnap-polyfill.js
 ------------------------------------------------------------
