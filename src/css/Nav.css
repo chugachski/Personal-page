@@ -12,6 +12,7 @@ ul {
 li {
   color: #FFF;
   display: inline;
+  font-size: 18px;
 }
 
 li:hover {
