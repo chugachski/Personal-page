@@ -1,6 +1,6 @@
 ## Hosted app
 scroll snap works in Firefox without polyfill
-- http://chugachski.github.io/Personal-page
+- http://chugachski.github.io/nate-smith-code
 
 ## Polyfills:
 ### URLs
