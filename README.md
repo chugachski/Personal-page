@@ -1,7 +1,6 @@
 ## Hosted app
 - http://chugachski.github.io/Personal-page
 - scroll snap works in Firefox without polyfill
-- chrome: see syntax errors in developer tools
 
 ## Polyfills:
 ### URLs
