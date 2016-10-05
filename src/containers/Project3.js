@@ -14,7 +14,7 @@ class Project3 extends Component {
         <div className="pad"></div>
           <div className="project-content">
             <div className="project-wrapper">
-              <h2>PROJECT / DRINKS ON US</h2>
+              <h2>PROJECT / SHUTTLE TRACKER</h2>
               <img className="double" src={gorillaUrl} alt="Gorilla Bus Project"></img>
               <img className="double" src={gorillaUrl2} alt="Gorilla Bus Project 2"></img>
             </div>
